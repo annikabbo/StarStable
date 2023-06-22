@@ -1,0 +1,183 @@
+.container{
+    margin: 0px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #ffad00;
+    color: #1d365a;
+}
+
+#un{
+    position: relative;
+    left: 0px;
+}
+
+#rtdis{
+    position:relative;
+    right:65%;
+  }
+
+#start{
+    border-radius: 100px;
+    position: relative;
+    left: 130px;
+}
+
+.textflex{
+    position: relative;
+    right: 130px;
+}
+a:link {
+    color: #1d365a;
+  }
+a:visited {
+    color: #1d365a;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+#rid::after{
+    box-sizing: border-box;
+    position: absolute;
+    content: "";
+    display: block;
+    height: 5px;
+    width: 47px;
+    background-color: #ffad00;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -15px;
+}
+
+.fotostart{
+    width:900px;
+    awidth:1000px;
+    margin: 0;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    padding-left: 150px;
+    padding-right: 374px;
+    apadding-right: 274px;
+    font-size: 20px;
+    justify-content: center;
+    background-image: url("./background6.png");
+    background-color: rgb(56, 61, 65);
+    background-blend-mode: overlay;
+}
+
+.textstart{
+    color:rgb(255, 255, 255);
+    position: relative;
+    left:40%;
+    aleft: 7%;
+}
+
+h4{
+    padding-left: 130px;
+    color:#1d365a;
+    font-size: 30px;
+    margin: 60px 0;
+}
+
+h2{
+    padding-left: 130px;
+    color:#1d365a;
+    font-size: 30px;
+    margin: 60px 0;
+}
+.spot{
+    width: 350px;
+    font-size: 18px;
+    background-color:  rgb(255, 255, 255);
+    color: #1d365a;
+    padding-bottom: 5px;
+}
+.angebot{
+    display: grid;
+    gap: 20px 57px;
+    grid-template-columns: auto auto auto;
+    margin: 0 130px;
+}
+
+.trainer{
+    display: grid;
+    gap: 20px 57px;
+    grid-template-columns: auto auto auto;
+    margin: 0 130px;
+}
+.spot2{
+    width: 550px;
+    font-size: 18px;
+    background-color:  rgb(255, 255, 255);
+    color: #1d365a;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+.anna{
+    position:relative;
+    left:8px;
+    right:8px;
+}
+.rosa{
+    position:relative;
+    left:8px;
+    right:8px;
+}
+#privatinfo{
+    position:relative;
+    left:8px;
+    right:8px;
+}
+#gruppeinfo{
+    position:relative;
+    left:8px;
+    right:8px;
+}
+#wanderinfo{
+    position:relative;
+    left:8px;
+    right:8px;
+}
+body {
+    background-color: #F5F4F9;
+}
+#angebotheader::before{
+    box-sizing: border-box;
+    position:relative;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 40px;
+    background-color: #ffad00;
+    left: -45px;
+    top: 28px;
+}
+#trainerheader::before{
+    box-sizing: border-box;
+    position:relative;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 40px;
+    background-color: #ffad00;
+    left: -45px;
+    top: 28px;
+}
+#stallheader::before{
+    box-sizing: border-box;
+    position:relative;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 40px;
+    background-color: #ffad00;
+    left: -45px;
+    top: 28px;
+}

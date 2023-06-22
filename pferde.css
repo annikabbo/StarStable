@@ -1,0 +1,102 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 500px;
+    align-items: center;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+
+
+div {
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.contentimage{
+    width: 320px;
+    height: 320px;
+    margin: 50px;
+}
+
+img {
+    border-radius: 9px;
+}
+
+#start{
+    border-radius: 100px;
+    position: relative;
+    left: 130px;
+}
+
+.overlay {
+    position:absolute;
+    height: 320px;
+    width: 320px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #1d365a;
+    border-radius: 8px;
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+  
+.text {
+    margin: 45% 0 0 0;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+
+span{
+    font-size: 40px;
+    position: relative;
+    left: 460px;
+}
+
+.container{
+    margin: 0px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    background-color: #ffad00;
+    color: #1d365a;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#un{
+    position: relative;
+    left: 0px;
+}
+#rtdis{
+  position:relative;
+  right:43%;
+}
+a:link {
+  color: #1d365a;
+}
+a:visited {
+  color: #1d365a;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+.textflex{
+  position: relative;
+  right: 130px;
+}
+body {
+  background-color: #F5F4F9;
+}
