@@ -32,7 +32,7 @@ Ziele der Webseite:
 
 - schnell arbeiten
 - für die Kunden bequem zu verwenden sein
-- übersichtlich aufgebautwerden
+- übersichtlich aufgebaut werden
 - passend aussehen
 
 
