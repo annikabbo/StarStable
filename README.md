@@ -23,7 +23,7 @@ Ziele der Webseite:
 
 - neue Kunden anlocken
 - neue Leute anziehen durch Bereitstellung von interessanten Informationen über verschiedene Reitsportdisziplinen
-- Reitsportpopularisieren
+- Reitsport popularisieren
 
 
 # **Vorläufige Anforderungen**
@@ -38,7 +38,7 @@ Ziele der Webseite:
 
 # **Webseite-Struktur**
 
-**StarStable** ist eineMarketing-Website der größten Reitschule Deutschlands. Auf der Webseite erfahren die Kunden über die Angebote der Reitschule „StarStable", über die Trainer und die Reitdisziplinen, für die man sich in „StarStable" entscheiden kann. Auf der Webseite wird auch die Information sowohl zum Standort der Ställe in unterschiedlichen Städten Deutschlands freigestellt als auch zu den Kontaktdaten der Ställe, damit die potenziellen Kunden sich mithilfe der Webseite an die Administratoren schnell wenden können. Zusätzlich dazu kann man sofort von der Webseite eine Nachricht schicken.
+**StarStable** ist eine Marketing-Website der größten Reitschule Deutschlands. Auf der Webseite erfahren die Kunden über die Angebote der Reitschule „StarStable", über die Trainer und die Reitdisziplinen, für die man sich in „StarStable" entscheiden kann. Auf der Webseite wird auch die Information sowohl zum Standort der Ställe in unterschiedlichen Städten Deutschlands als auch zu den Kontaktdaten der Ställe freigestellt, damit die potenziellen Kunden sich mithilfe der Webseite an die Administratoren schnell wenden können. Zusätzlich dazu kann man sofort von der Webseite eine Nachricht schicken.
 
 
 # **Benutzerrollen**
